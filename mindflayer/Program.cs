@@ -6,7 +6,10 @@ namespace mindflayer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int j = 0; j < 5; j++)
+            {
+                Console.WriteLine("Hello World!");
+            }
         }
     }
 }
